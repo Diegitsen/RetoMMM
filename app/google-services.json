@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675911104935",
+    "firebase_url": "https://retommm-135ed.firebaseio.com",
+    "project_id": "retommm-135ed",
+    "storage_bucket": "retommm-135ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675911104935:android:b5b11aa081acd4bb",
+        "android_client_info": {
+          "package_name": "com.example.diego.reto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675911104935-62itqkibrqoisa83bm13ftiaehhc4hbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diego.reto",
+            "certificate_hash": "e8f702764e0649e0685619c7c19010e98bb1d77c"
+          }
+        },
+        {
+          "client_id": "675911104935-na58g2a23uv611rck18rkntia0aij1f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzg6JGZDFxoRlXg7kF2D1PZZaB2u5Rwuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675911104935-na58g2a23uv611rck18rkntia0aij1f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
